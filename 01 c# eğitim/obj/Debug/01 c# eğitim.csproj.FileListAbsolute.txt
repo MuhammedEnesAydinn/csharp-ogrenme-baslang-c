@@ -1,0 +1,7 @@
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\bin\Debug\01 c# eğitim.exe.config
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\bin\Debug\01 c# eğitim.exe
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\bin\Debug\01 c# eğitim.pdb
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\obj\Debug\01 c# eğitim.csproj.AssemblyReference.cache
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\obj\Debug\01 c# eğitim.csproj.CoreCompileInputs.cache
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\obj\Debug\01 c# eğitim.exe
+C:\Users\aydin\source\repos\01 c# eğitim\01 c# eğitim\obj\Debug\01 c# eğitim.pdb
